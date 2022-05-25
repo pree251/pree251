@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Preetal Nilang Shah!
-- 👀 I’m interested in Web development, Graphic designing and App development.
-- 🌱 I’m currently exploring web and app dev so that I can sharpen these skills further!
+- 💻 I’m interested in Web development, Graphic designing and App development.
+- ✨ I’m currently exploring web and app dev so that I can sharpen these skills further!
 - 📫 You can contact me here:
 - LINKEDIN: https://www.linkedin.com/in/preetal-shah-41a40a1b2/
 - TWITTER: https://twitter.com/p_retzel
