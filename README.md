@@ -1,8 +1,8 @@
-<h2 align="left">Hey everyone! 👋 I'm Preetal Shah. 👩‍💻</h2>
+<h1 align="left">Hey everyone! 👋 I'm Preetal Shah. 👩‍💻</h1>
 
 ###
 
-<p align="left">Here's a little about me:<br>🎓 I'm a final year student at VIT Chennai specializing in Electronics & Computer engineering. <br>💯 A quick learner who is constantly searching for new technology to experiment with.<br>✨ An aspiring full-stack dev.</p>
+<h4 align="left">Here's a little about me:<br>🎓 I'm a final year student at VIT Chennai specializing in Electronics & Computer engineering. <br>💯 A quick learner who is constantly searching for new technology to experiment with.<br>✨ An aspiring full-stack dev.</h4>
 
 ###
 
