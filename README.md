@@ -13,10 +13,10 @@
 ###
 
 <a href="https://github.com/pree251/github-readme-stats">
-  <img align="center" height="120" src="https://github-readme-stats.vercel.app/api?username=pree251&include_all_commits=true&show_icons=true&theme=radical"/>
+  <img align="center" height="160" src="https://github-readme-stats.vercel.app/api?username=pree251&include_all_commits=true&show_icons=true&theme=radical"/>
 </a>
 <a href="https://github.com/pree251/github-readme-stats">
-  <img align="center" height="120" src="https://github-readme-stats.vercel.app/api/top-langs?locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=radical&hide_border=false&username=pree251" height="200" alt="languages graph"/>
+  <img align="center" height="160" src="https://github-readme-stats.vercel.app/api/top-langs?locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=radical&hide_border=false&username=pree251" height="200" alt="languages graph"/>
 </a>
 
 ###
