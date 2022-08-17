@@ -2,7 +2,7 @@
 
 ###
 
-<h4 align="left">Here's a little about me:<br>🎓 I'm a final year student at VIT Chennai specializing in Electronics & Computer engineering. <br>💯 A quick learner who is constantly searching for new technology to experiment with.<br>✨ An aspiring full-stack dev.</h4>
+<p align="left">Here's a little about me:<br>🎓 I'm a final year student at VIT Chennai specializing in Electronics & Computer engineering. <br>💯 A quick learner who is constantly searching for new technology to experiment with.<br>✨ An aspiring full-stack dev.</p>
 
 ###
 
@@ -12,13 +12,12 @@
 
 ###
 
-![Preetal's GitHub stats](https://github-readme-stats.vercel.app/api?username=pree251&include_all_commits=true&show_icons=true&theme=radical)
-
-###
-
-<div align="right">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=radical&hide_border=false&username=pree251" height="200" alt="languages graph"  />
-</div>
+<a href="https://github.com/pree251/github-readme-stats">
+  <img align="left" height="200" src="https://github-readme-stats.vercel.app/api?username=pree251&include_all_commits=true&show_icons=true&theme=radical"/>
+</a>
+<a href="https://github.com/pree251/github-readme-stats">
+  <img align="center" height="200" src="https://github-readme-stats.vercel.app/api/top-langs?locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=radical&hide_border=false&username=pree251" height="200" alt="languages graph"/>
+</a>
 
 ###
 
